@@ -3,7 +3,7 @@ This repo holds all assignments completed for my Controls Engineering course (Sp
 
 # Assignment Descriptions
 
-## HW 1 --- Feedback Systems, State-Variable Representation, LSim
+## HW 1 -- Feedback Systems, State-Variable Representation, LSim
 Block diagram derivation of feedback systems for multiple applications. State-variable derivation of multiple systems. LSim of systems completed in MATLAB.
 
 ## HW 2 --- System Linearization + LTI Systems
